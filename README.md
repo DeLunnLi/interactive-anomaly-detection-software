@@ -21,13 +21,13 @@ Press the datasets button->Load Images->label select image->Press the datasets b
 If you want to label image, right-click the mouse, and select Edit Defect Area
 
 ## Manual anomaly labeling
-![Manual anomaly labeling](images\label_anomaly_image.png)
+![Manual anomaly labeling](images/label_anomaly_image.png)
 
 ## Statistical image information(You can move the red and green lines in Cumulative Plot to adjust the selected area.)
-![predict](images\predict.png)
+![predict](images/predict.png)
 
 ## Function Selection
-![function selection](images\function_select.png)
+![function selection](images/function_select.png)
 
 
 ## Apology
